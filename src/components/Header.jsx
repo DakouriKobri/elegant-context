@@ -1,5 +1,7 @@
+// NPM Packages
 import { useRef } from 'react';
 
+// Project Imports
 import CartModal from './CartModal.jsx';
 
 export default function Header({ cart, onUpdateCartItemQuantity }) {

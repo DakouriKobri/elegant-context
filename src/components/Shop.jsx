@@ -1,3 +1,4 @@
+// Project Imports
 import { DUMMY_PRODUCTS } from '../dummy-products.js';
 import Product from './Product.jsx';
 

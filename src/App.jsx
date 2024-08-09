@@ -1,5 +1,7 @@
+// NPM Packages
 import { useState } from 'react';
 
+// Project Imports
 import Header from './components/Header.jsx';
 import Shop from './components/Shop.jsx';
 import { DUMMY_PRODUCTS } from './dummy-products.js';

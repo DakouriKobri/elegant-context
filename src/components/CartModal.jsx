@@ -1,5 +1,8 @@
+// NPM Packages
 import { forwardRef, useImperativeHandle, useRef } from 'react';
 import { createPortal } from 'react-dom';
+
+// Project Imports
 import Cart from './Cart';
 
 const CartModal = forwardRef(function Modal(
